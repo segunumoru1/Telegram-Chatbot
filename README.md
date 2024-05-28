@@ -24,9 +24,6 @@ Unleash the power of automation with a Telegram chatbot! This guide walks you th
 - **Streamlit**: For deploying the chatbot application.
 - **Telegram Bot API**: For creating and managing the Telegram chatbot.
 
-## Apache License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
 
 ## How to Clone the Repository
 
@@ -52,9 +49,15 @@ streamlit run app.py
 
 ## Access the Streamlit App
 
-You can access the deployed Streamlit app at the following link:
+You can access the deployed Telegram Chatbot Streamlit app at the following link:
 
-[Streamlit App](https://segunumoru1-telegram-chatbot-app-hydw14.streamlit.app/)
+[Telegram Chatbot Streamlit App](https://segunumoru1-telegram-chatbot-app-hydw14.streamlit.app/)
+
+
+## Apache License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
+
 
 ## Contact
 
