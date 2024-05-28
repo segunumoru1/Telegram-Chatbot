@@ -1,6 +1,10 @@
+import nltk
+nltk.download('punkt')
+from nltk.tokenize import word_tokenize
 import streamlit as st
 import json
 from chatbot import predict_class, get_response
+
 
 st.title("Telegram Chatbot Demo")
 
