@@ -54,10 +54,6 @@ You can access the deployed Telegram Chatbot Streamlit app at the following link
 [Telegram Chatbot Streamlit App](https://segunumoru1-telegram-chatbot-app-hydw14.streamlit.app/)
 
 
-## Apache License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
-
 
 ## Contact
 
