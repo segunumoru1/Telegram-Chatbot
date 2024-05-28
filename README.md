@@ -1,4 +1,4 @@
-# Telegram Chatbot Creation
+# Telegram Chatbot Creation 🤖
 
 Unleash the power of automation with a Telegram chatbot! This guide walks you through the process of creating a Telegram chatbot using information scraped from Telegram's FAQs. Whether for personal use or business, this project helps you engage users and automate tasks seamlessly.
 
